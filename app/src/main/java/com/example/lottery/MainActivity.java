@@ -97,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
         TextView cheat = findViewById(R.id.textView3);
         tv.setVisibility(View.VISIBLE);
         cheat.setVisibility(View.INVISIBLE);
-        input.setText("");
         tv.setText("");
         isRandom = true;
         ConstraintLayout layout = findViewById(R.id.main_layout);

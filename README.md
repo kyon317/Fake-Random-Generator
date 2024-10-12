@@ -1,5 +1,5 @@
-# lottery
-A fake lottery app
+# Fake-Random-Generator
+An app built on Android to generate fake random numbers
 1. Cheat Mode: Always generates 42
 2. Normal Mode: Generates random number based on input range
 3. Switch back from Cheat Mode: Tap any empty place will switch from Cheat Mode to Normal Mode
